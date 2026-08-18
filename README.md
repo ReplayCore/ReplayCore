@@ -41,13 +41,7 @@ No need to constantly interact with OBS — ReplayCore automatically handles you
 
 ## 📸 Screenshots
 
-The screenshots below are from the current beta build and may display the French interface.
-
-### Home
-
-A quick overview of your current game, replay buffer, shortcuts and latest captures.
-
-![ReplayCore Home](home.png)
+Screenshots from the current ReplayCore beta.
 
 ### Library
 
