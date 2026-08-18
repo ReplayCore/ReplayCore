@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎮 ReplayCore
+# ReplayCore
 
 ### Capture your best gaming moments. Instantly.
 
@@ -14,13 +14,15 @@ ReplayCore brings the power of OBS to gamers through a simple, automated interfa
 
 </div>
 
+<p align="center">
+  <img src="home.png" alt="ReplayCore Home" width="100%">
+</p>
+
 ## ✨ What is ReplayCore?
 
 ReplayCore is a Windows gaming capture application designed to make recording your best moments simple.
 
-No need to constantly interact with OBS.
-
-ReplayCore automatically handles your capture environment so you can focus on playing.
+No need to constantly interact with OBS — ReplayCore automatically handles your capture environment so you can focus on playing.
 
 ## 🎮 Features
 
@@ -28,6 +30,7 @@ ReplayCore automatically handles your capture environment so you can focus on pl
 - 📸 **Screenshots** — Capture your game with a keyboard or mouse shortcut.
 - ⏺ **Recording** — Start and stop recordings without opening OBS.
 - 🎮 **Game Profiles** — Different capture settings for different games.
+- 🗂️ **Session Tracking** — Automatically group play sessions and related captures.
 - 🔄 **Automatic game detection**
 - 🛠️ **OBS integration**
 - 📚 **Built-in media library**
@@ -36,13 +39,37 @@ ReplayCore automatically handles your capture environment so you can focus on pl
 - 🔔 **Desktop notifications**
 - 🛡️ **Automatic capture recovery**
 
+## 📸 Screenshots
+
+The screenshots below are from the current beta build and may display the French interface.
+
+### Home
+
+A quick overview of your current game, replay buffer, shortcuts and latest captures.
+
+![ReplayCore Home](home.png)
+
+### Library
+
+Browse, filter and manage your captures from a clean built-in media library.
+
+![ReplayCore Library](library.png)
+
+### Game Profiles
+
+Use different replay, naming and shortcut rules for each game.
+
+![ReplayCore Game Profiles](profiles.png)
+
+### Sessions
+
+Automatically group your gameplay sessions, playtime and captures in one place.
+
+![ReplayCore Sessions](sessions.png)
+
 ## 🖥️ Designed for Windows
 
 ReplayCore is currently developed for Windows gaming PCs.
-
-## 📸 Screenshots
-
-Screenshots and demonstrations of ReplayCore are coming soon.
 
 ## 📦 Download
 
@@ -58,11 +85,11 @@ Feedback, bug reports and suggestions are welcome.
 
 ## 🔒 Security
 
-ReplayCore does not modify your games and is not a cheat or gameplay modification tool.
+ReplayCore is a capture tool built around OBS workflows.
 
-It focuses exclusively on game capture, screenshots and recording through its capture environment.
+It does not modify your games and is not a cheat or gameplay modification tool.
 
-More information about builds, security and verification will be provided with public releases.
+More information about builds, verification, hashes and security guidance will be provided with public releases.
 
 ---
 
