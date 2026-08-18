@@ -41,7 +41,7 @@ No need to constantly interact with OBS — ReplayCore automatically handles you
 
 ## 📸 Screenshots
 
-Screenshots from the current ReplayCore beta.
+Screenshots from the current ReplayCore Beta. The interface may evolve during development.
 
 ### Library
 
